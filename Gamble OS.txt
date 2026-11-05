@@ -1,0 +1,36 @@
+[11:20, 31.10.2026] John Gambler: # 🐕 GAMBLE OS — THE CYBERPUNK ARCHITECTURE REVOLUTION
+
+A highly responsive, custom-built Cyberpunk OS that bridges Windows stability and Linux performance via a lightning-fast, zero-bloat Excel core database. 
+
+## 🚨 TECHNICAL SPECIFICATIONS & SYSTEM PROFILE
+- *OS Base:* Linux Emulation
+- *Hardware Integration:* Local PC Drive Mapping
+- *Kernel Status:* PREPARED KERNEL & CLEAN RUN
+- *Interface:* HQ-2 Clean Stream Mode
+- *Access Authorization:* ROOT_ACCESS Granted (User: John Gambler)
+
+## ⚡ CORE CAPABILITIES
+- *Zero Bloat:* Massive performance scaling packaged into a pure, lightweight 5.2 KB structure.
+- *Direct Excel Pipeline:* Blazing-fast data stream processing with zero overhead.
+- *Independent Infrastructure:* Built 100% scratch-made, avoiding standard telemetry …
+[11:25, 31.10.2026] John Gambler: ## 📁 Folder Structure & Configuration
+
+You can fully customize the folder structure (including folder names and their purposes) to fit your specific workflow and needs.
+
+### 1. Default Folder Structure
+By default, the project is organized as follows:
+├── [Folder_Name_1]/       # Purpose: Place your raw input files here.
+├── [Folder_Name_2]/       # Purpose: This is where the processed output files will be saved.
+└── config.json            # Central configuration file to customize the setup.
+
+### 2. How to Configure the Structure
+To change the folder names or paths, open the configuration file (e.g., config.json or .env) in a text editor and update the respective keys:
+
+json
+{
+  "input_folder_path": "your_custom_input_name",
+  "output_folder_path": "your_custom_output_name"
+}
+
+
+Note: Make sure that the folder names specified in your configuration match the actual physical folders on your system.
