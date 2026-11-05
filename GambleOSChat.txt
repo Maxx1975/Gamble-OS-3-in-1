@@ -1,0 +1,18 @@
+# Gamble_OS_Chat (GLOBAL EDITION V 2.0)
+
+🚀 Official Core Chat Terminal and Live Interface for the Gamble OS Ecosystem.
+
+This module provides a hardware-native, ultra-secure communication layer and real-time interface designed to link the standalone HTML hub directly with local Python processes, bypassing standard browser security restrictions.
+
+### ⚡ Status & Project Info
+* *Core Foundation:* Rock-solid vision and framework initialized.
+* *Code State:* Raw framework, actively being optimized. Contributions are welcome!
+* *Ecosystem Integration:* Connects seamlessly with the main Gamble-OS architecture.
+
+### 💰 Support the Project (Pay What You Want)
+We play with open cards: The visionary foundation is here, but the code is a work in progress. This project runs on an honest monthly *Pay What You Want* model to fuel the upcoming movie project and independent development.
+
+👉 *Support on Ko-fi & Get Discord Roles:* [Your Ko-fi Link Here]
+
+---
+Digital Media Vision Networks © 2026 | Developed by Maxx1975
