@@ -27,10 +27,4 @@ We are moving the entire ecosystem to industrial-grade standards. To guarantee m
 
 ---
 
-## ☕ Support the Development ("Baker Support")
 
-All code and downloads remain 100% free for the community. If you love the project and want to support the ongoing SUSE optimization, feel free to back the developer!
-
-* 🥖 Baker Support (€4.99 / €5.00): Leave a voluntary monthly or one-time donation on Ko-fi to support the daily grind and grab a coffee or a bun at the bakery.
-
-Note: Access to the private developer Discord server is strictly restricted to authorized partners and the core administration team.
